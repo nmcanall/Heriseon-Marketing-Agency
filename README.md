@@ -8,4 +8,4 @@ URL for site:  https://nmcanall.github.io/Heriseon-Marketing-Agency/
 URL for repo:  https://github.com/nmcanall/Heriseon-Marketing-Agency
 
 ## Site preview
-![screensot of site](./assets/images/file-screenshot.png)
+![screensot of site](./assets/images/file-screenshot.PNG)
